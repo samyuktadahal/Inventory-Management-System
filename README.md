@@ -20,4 +20,4 @@
    * Creation of INDEXES
    * Data Quality Metrics
    * Data Quality Dashboard Query
-   * 
+   * Backed up file in .bak format using SSMS GUI Tool.
