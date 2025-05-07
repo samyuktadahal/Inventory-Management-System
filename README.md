@@ -13,6 +13,7 @@
    * Time Dimension ETL
    * Supplier Dimension ETL
    * Sales Trend Analysis ETL
+   * Backed up file in .bak format using SSMS GUI.
    * Incremental Load Pattern
    * Data Cleansing Transformations
    * Aggregation and Summary Loads
